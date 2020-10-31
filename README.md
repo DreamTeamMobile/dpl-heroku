@@ -8,7 +8,9 @@ Based on ruby:2.6-alpine, this image has the exact things needed for dpl to do h
 
 ## Docker Hub
 
-The image is publicly available on Docker Hub at https://hub.docker.com/r/ceorcham/dpl-heroku
+The image is publicly available on Docker Hub at https://hub.docker.com/r/dreamteammobile/gitlab-runner-heroku-dpl
+
+Kudos to https://github.com/ceorcham/dpl-heroku  (https://hub.docker.com/r/ceorcham/dpl-heroku)
 
 ## References
 
